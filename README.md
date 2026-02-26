@@ -1,4 +1,4 @@
-# Hi, I'm Abdis Ahmed 👋
+# Hi, I'm Abdullahi Ahmed 👋
 
 🎓 Computer Engineering Student  
 💻 Full-Stack Developer (Java • Spring Boot • React)  
