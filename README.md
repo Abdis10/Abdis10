@@ -40,7 +40,7 @@ Full-stack productivity tracking application.
 - Secure session validation
 - Study session logging (date, hours, productivity, comment)
 - Protected routes
-- Clean layered architecture (DTOs, Service, Repository)
+- Clean layered architecture 
 
 ---
 
@@ -80,21 +80,15 @@ Focus:
 ### Database
 - SQLite
 - MySQL
-- Database normalization (1NF → BCNF)
+- Database normalization
 
 ### Other Knowledge
 - Algorithms & Data Structures
-- Networking (Kurose & Ross)
+- Basic Computer Networking
 - Statistics & Probability
 - Git & GitHub workflows
 - UML & system design
 - Basic Arduino & embedded systems
-
----
-
-## 🧠 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
 
 ---
 
@@ -103,6 +97,7 @@ Focus:
 - Mastering Spring Boot
 - Strengthening Data Structures & Algorithms
 - Building production-style full-stack applications
+- System design
 ---
 
 ## 📫 Connect With Me
