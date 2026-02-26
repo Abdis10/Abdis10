@@ -119,7 +119,7 @@ Focus:
 
 ## 📫 Connect With Me
 
-- LinkedIn: (https://www.linkedin.com/in/abdullahi-ahmed-709b7423b/)
+- LinkedIn: https://www.linkedin.com/in/abdullahi-ahmed-709b7423b/
 
 ---
 
