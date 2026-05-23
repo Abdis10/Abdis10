@@ -6,11 +6,11 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I’m a Computer Engineering student passionate about building structured, scalable systems.
 
-I enjoy designing clean backend architectures, implementing authentication flows, working with databases, and connecting everything to modern frontend interfaces.
+I enjoy breaking and building things to truly understand how and why systems work.
 
 I focus on:
 - Clean architecture & separation of concerns
@@ -24,7 +24,7 @@ I focus on:
 
 ## 🚀 Featured Projects
 
-### 📚 StudyTracker
+### StudyTracker
 Full-stack productivity tracking application.
 
 **Tech:**
@@ -44,7 +44,7 @@ Full-stack productivity tracking application.
 
 ---
 
-### 🗺 GetYourRoute
+### Public transport webapp
 Public transport planner integrating external APIs.
 
 **Tech:**
@@ -60,7 +60,7 @@ Focus:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Backend
 - Java
@@ -92,12 +92,12 @@ Focus:
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Mastering Spring Boot
-- Strengthening Data Structures & Algorithms
-- Building production-style full-stack applications
+- Data Structures & Algorithms
 - System design
+- Building mini-framework on top Javalin
 ---
 
 ## 📫 Connect With Me
@@ -105,5 +105,3 @@ Focus:
 - LinkedIn: https://www.linkedin.com/in/abdullahi-ahmed-709b7423b/
 
 ---
-
-> "I build structured systems, not just features."
