@@ -1,41 +1,39 @@
 # Hi, I'm Abdullahi Ahmed 👋
-
-🎓 Computer Engineering Student  
-💻 Full-Stack Developer (Java • Spring Boot • React)  
-📍 Norway  
+🎓 Computer Engineering Student
+💻 Full-Stack Developer (Java • Spring Boot • React)
+📍 Norway
 
 ---
 
 ## About Me
+Full-stack developer based in Norway 🇳🇴, working mainly with **Java/Spring Boot** on the backend and **React/TypeScript** on the frontend. 
 
-I'm a Computer Engineering background developer based in Norway 🇳🇴, working mainly with Java/Spring Boot on the backend and React/TypeScript on the frontend. I like building things layer by layer and understanding why something works, not just getting it to run — which is why my early projects lean into fundamentals like authentication and data modeling rather than skipping straight to frameworks doing the work for me.---
+My philosophy: I like understanding why something works, not just getting it to run — so I build core things like auth and data modeling myself instead of leaning on frameworks for everything.
+
+---
 
 ## 🚀 What I've Built
+**StudyTracker** — Study session tracker (Java/Javalin, SQLite, React)
+- Custom token-based auth + BCrypt hashing, built from scratch
 
-- StudyTracker — A full-stack study session tracker built with Java (Javalin), SQLite, and React. Includes custom token-based authentication and BCrypt password hashing built from scratch, rather than relying on an off-the-shelf auth library.
-- Public Transport Planner — A journey planning app that consumes a public GraphQL transport API, focused on turning a real-world external API into a clean, usable frontend experience.
-
-Both projects were as much about learning solid backend fundamentals — auth, session handling, layered architecture — as they were about shipping a working app.
+**Public Transport Planner** — Journey planner using a public GraphQL API
+- Turns a real-world external API into a clean, usable frontend
 
 ---
 
 ## 🛠️ Tech Stack
-
-Backend: Java · Spring Boot · Javalin · REST APIs · JDBC · Hibernate
-Frontend: React · TypeScript · Vite
-Data: PostgreSQL · SQLite · MySQL
+**Backend:** Java · Spring Boot · Javalin · REST APIs · JDBC · Hibernate
+**Frontend:** React · TypeScript · Vite
+**Data:** PostgreSQL · SQLite · MySQL
 
 ---
 
 ## 🎯 Currently Focused On
-
-- Deepening Spring Boot patterns beyond CRUD (event-driven design, background jobs)
-- Building products for the Norwegian market using local data infrastructure
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/abdullahi-ahmed-709b7423b/
+- Spring Boot beyond CRUD (event-driven design, background jobs)
+- Devops (docker, CI/CD)
+- Operating systems fundamentals
 
 ---
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/abdullahi-ahmed-709b7423b/)
