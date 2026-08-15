@@ -36,4 +36,4 @@ My philosophy: I like understanding why something works, not just getting it to 
 ---
 
 ## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/abdullahi-ahmed-709b7423b/)
+[LinkedIn](https://www.linkedin.com/in/abdullahi-abdiqadir-709b7423b/)
